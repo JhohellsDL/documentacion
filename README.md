@@ -1,9 +1,12 @@
-# documentacion
-Pruebas de documentacion
 # Documentación de RideBadge
 
 ## Descripción General
 `RideBadge` es un componente personalizado de Android que muestra una insignia con texto, ícono y estilos personalizables. Admite varios atributos para ajustar su apariencia y comportamiento, lo que lo hace versátil para diferentes casos de uso, como insignias promocionales o de descuento.
+
+## Características
+- Muestra un distintivo con texto y un icono opcional.
+- Personaliza el texto del distintivo, el color del texto, el color de fondo y la visibilidad del icono.
+- Elige entre diferentes estilos de distintivo: Descuento y Promocional.
 
 ## Atributos
 
